@@ -1,0 +1,13 @@
+body {
+background-color: rgb(30, 110, 159);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.class1 {
+    color: rgb(6, 6, 145);
+    margin: 0%;
+    text-align: center;
+    border: 5px solid rgb(6, 6, 145);
+    padding: 25px ;
+    margin: 4px 10px ;
+}

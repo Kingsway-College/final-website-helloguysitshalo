@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(173, 48, 6, 0.843);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.classone {
+    color: rgb(110, 40, 5);
+    margin: 0%;
+    text-align: center;
+    border: 5px solid  rgb(110, 40, 5);
+    padding: 25px ;
+    margin: 4px 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.classtwo {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
